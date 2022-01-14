@@ -9,7 +9,7 @@
 
   ![Image](LW2P1.png)
 
-    I download the version for Windows x64 from https://code.visualstudio.com/. Then, I install it in D drive of my laptop. After installation,  a window that looks like the         picture above will be shown.
+   I download the version for Windows x64 from https://code.visualstudio.com/. Then, I install it in D drive of my laptop. After installation,  a window that looks like the        picture above will be shown.
 ***
 2. **Remotely Connecting**
 
