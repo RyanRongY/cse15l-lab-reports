@@ -56,7 +56,7 @@
 ***
 6. **Optimizing Remote Running**
 
-    ![Image](https://github.com/RyanRongY/cse15l-lab-reports/blob/main/LW2P7.png)
+    ![Image](LW2P7.png)
 
     I tried to write the command in quotes to directly run it on the remote server. 
     Then, I tried to seperate command by semicolons and run all of them in the smae line. Running on the server is much more efficient than running on client. 
