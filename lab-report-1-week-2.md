@@ -41,7 +41,9 @@ Frst of all, I created a java file on my desktop. Then, I typed
 **scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/** on terminal. After typing in password, I copied the file into the server. At last, I logged in the server to check if I successfully copied the file. 
 ***
 5. **Setting an SSH Key** 
+
 I created a **SSH Key** in two steps.
+
 ![Image](https://github.com/RyanRongY/cse15l-lab-reports/blob/main/LW2P6.png)
 
 By calling command: **ssh-keygen** and setting the location of storing the key at **\Users\hp/.ssh/id_rsa**,
@@ -52,7 +54,7 @@ Then, after creating an directory on the server by using command **mkdir .ssh** 
 
 After these two steps, I can do ssh or scp from client to the server without entering my password.
 ***
-6.** Optimizing Remote Running**
+6. **Optimizing Remote Running**
 
 ![Image](https://github.com/RyanRongY/cse15l-lab-reports/blob/main/LW2P7.png)
 
