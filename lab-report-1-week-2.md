@@ -10,7 +10,8 @@
   ![Image](LW2P1.png)
 
    I download the version for Windows x64 from [https://code.visualstudio.com/](https://code.visualstudio.com/). Then, I install it in D drive of my laptop. After installation,  a window that looks like the        picture above will be shown.
-***
+
+   ***
 2. **Remotely Connecting**
 
    First, download SSH at [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse). Then, look up your student account for CSE15L at         [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php). After that, go to VSCode. 
