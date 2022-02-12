@@ -49,6 +49,8 @@ Then, I atucally run the test with
 
 As a result, all the tests were passed 
 
+***
+
 5. Combining All the Commands in a Single Line
 
 I used the command 
