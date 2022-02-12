@@ -1,4 +1,4 @@
-# **WEEK2 Lab Report**
+# **WEEK4 Lab Report**
 
 ## Debugging on the MarkdownParse.java 
 ***
@@ -10,7 +10,7 @@
 
 the test file use is under this link (2 ouput screenshot might used files with different names, but the contents are always the same)
 
-[test-file3](test-file3.md)
+[test-file3](https://ryanrongy.github.io/cse15l-lab-reports/test-file3.md)
 
 The errors will be reported while the parentheses and brackets are not appeared in pairs, which means that link is not complete. 
 In that case, the bug should be some of the variables can't be initialized or updated correctly, and the symptom here will be an infinite loop when closing brackets or parentheses missing. Moreover, when there are other contents after the last closing parenthese.
@@ -27,7 +27,7 @@ In that case, the bug should be some of the variables can't be initialized or up
 
 the test file use is under this link (2 ouput screenshot might used files with different names, but the contents are always the same)
 
-[test-file6](test-file6.md)
+[test-file6](https://ryanrongy.github.io/cse15l-lab-reports/test-file6.md)
 
 The error appears when the Markdown file read contians images in it. The difference between a normal link and a image link is that the image links start with ```!``` sign. After fixing the bug, the output can rule out image links from the file. 
 
@@ -39,6 +39,6 @@ The error appears when the Markdown file read contians images in it. The differe
 
 the test files use are under these links (2 ouput screenshot might used files with different names, but the contents are always the same)
 
-[test-file1](test-file.md) [test-file2](test-file2.md)
+[test-file1](https://ryanrongy.github.io/cse15l-lab-reports/test-file.md) [test-file2](https://ryanrongy.github.io/cse15l-lab-reports/test-file2.md)
 
 This error appears when the input string array length is not strictly 1. When the lenght is different, a symtom like ```Exception in thread "main" java.lang IndexOutOfBoundsException: Index: 0, Size: 0``` will be reported. 
