@@ -54,4 +54,4 @@
 
     *For Snippet3.md*
 
-    I don't think this bug can be fixed within 10 lines also. First of all, we would need to implement some changes about skipping `'\n'` characters while iterating through the whole `.md` file. Moreover, this test file also has the problem of not matching parens and brackets. We also need to implement a method similar to the adjustment for `Snippet2.md` as stated above. Since we need to make such 2 changes, I think it impractical to make the program work for this file with small code changes. 
+    I don't think this bug can be fixed within 10 lines. First of all, we would need to implement some changes about skipping `'\n'` characters while iterating through the whole `.md` file. Moreover, this test file also has the problem of not matching parens and brackets. We also need to implement a method similar to the adjustment for `Snippet2.md` as stated above. Since we need to make such 2 changes, I think it impractical to make the program work for this file with small code changes. 
