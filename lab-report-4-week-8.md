@@ -6,7 +6,8 @@
     [The repository my group fixed](https://github.com/tylercyang/markdown-parse)
  
     [My group's repository](https://github.com/RyanRongY/markdown-parse)
-    ***
+
+***
 
 2. Expected test result form CommonMark demo site
 
@@ -18,7 +19,8 @@
 
     *Snippet 3*
     ![Image](Snippet3.png)
-    ***
+
+***
 
 3. Tests I wrote for both my repository and the repository I reviewed
 
@@ -27,7 +29,8 @@
 
     *Repository I reviewed*
     ![Image](ReviewedTests.png)
-    ***
+
+***
 
 4. Test results for both repositories
 
@@ -36,7 +39,9 @@
 
     *Reviewed repository test results*
     ![Image](revResult.png)
-    ***
+
+***
+
 5. Reflection on how to fix the bugs 
 
     *For Snippet1.md*
