@@ -1,7 +1,7 @@
 # **WEEK 8 Lab Report**
 ## Testing Markdown Snippets
 ***
-1. markdown-parse repositories I used in this report 
+- ### ***markdown-parse repositories I used in this report***
 
     [The repository my group fixed](https://github.com/tylercyang/markdown-parse)
  
@@ -9,7 +9,7 @@
 
 ***
 
-2. Expected test result form CommonMark demo site
+- ### ***Expected test result form CommonMark demo site***
 
     *Snippet 1*
     ![Image](Snippet1.png)
@@ -22,7 +22,7 @@
 
 ***
 
-3. Tests I wrote for both my repository and the repository I reviewed
+- ### ***Tests I wrote for both my repository and the repository I reviewed***
 
     *My repository tests*
     ![Image](OwnTests.png)
@@ -32,7 +32,7 @@
 
 ***
 
-4. Test results for both repositories
+- ### ***Test results for both repositories***
 
     *My repository test results*
     ![Image](ownResult.png)
@@ -42,7 +42,7 @@
 
 ***
 
-5. Reflection on how to fix the bugs 
+- ### ***Reflection on how to fix the bugs***
 
     *For Snippet1.md*
 
