@@ -20,7 +20,7 @@
     ```
     Running result of mine:
 
-    ![Image](test22My.png)
+    ![Image](Test22My.png)
 
     Running result of Lab 9 repository 
 
